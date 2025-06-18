@@ -1,7 +1,7 @@
 {
     "name": "HID Keyboard",
-    "vendorId": "0x4C4B",
-    "productId": "0x4643",
+    "vendorId": "0x4e4b",
+    "productId": "0x4649",    
     "lighting": "none",
     "matrix": {
         "rows": 4,
